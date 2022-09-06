@@ -13,7 +13,7 @@ A function is a piece of code that does one specific thing
 **3.** What are the `SOLID` principles?
 <!-- enter you answer in the space below -->
 ```
-
+A standard for building code.
 ```
 **4.** Given this array: 
 ```js
@@ -32,13 +32,13 @@ let them = { name:"Them", hair: false, friends: [] }
 how would you .push the `them` object into the `you` object's array of friends?
 <!-- enter you answer in the space below -->
 ```
-
+you.push('them')
 ```
 
 **6.** Give an example of a JavaScript `Conditional`:
 <!-- enter you answer in the space below -->
 ```
-
+If statements
 ```
 **7.** In the `for loop` below, what is the name of the piece belongs inside the empty "______" space? What would you put here to increase `i` by one on every iteration?
 ```js
@@ -52,7 +52,7 @@ i++
 **8.** What does the `DOM` acronym stand for? Which file is first accessed to render the `DOM`?
 <!-- enter you answer in the space below -->
 ```
-
+Document Object Model. The Table
 ```
 
 **9.** What are the `9` ECMAScript types as defined by MDN?
